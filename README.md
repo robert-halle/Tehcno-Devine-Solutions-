@@ -1,7 +1,10 @@
 # Techno Devine Solutions – App Policies
 
-This repository hosts public policy documents for Android applications
+This repository hosts public privacy policy documents for Android applications
 published by Techno Devine Solutions.
+
+These policies are provided to comply with Google Play Developer Program
+requirements.
 
 ## Applications
 
@@ -12,22 +15,29 @@ published by Techno Devine Solutions.
   Macro Boy is a lightweight, offline-first utility app designed to present
   calculated macro data and visual summaries.
 
-## Privacy Policy
+- Privacy Policy:
+  privacy-policy.html
 
-The privacy policy for Macro Boy is available here:
+---
 
-privacy-policy.html
+### Rock Solid Diamond Drilling Troubleshooter
+- Platform: Android
+- Distribution: Google Play
+- Description:
+  Rock Solid Diamond Drilling Troubleshooter is a technical reference tool
+  designed to assist with diamond drilling troubleshooting and best practices.
 
-## Data Collection
+- Privacy Policy:
+  privacy-policy.html
 
-- No personal data is collected
-- No analytics or tracking
-- No advertising (at this time)
+## Data Collection Summary
+
 - No user accounts
+- No personal data collected directly by the developer
+- No custom analytics or tracking
+- Advertising disclosure is detailed per-app within each policy
 
 ## Contact
 
-For questions regarding policies or compliance:
-
 Techno Devine Solutions  
-Email: roberthalle910@gmail.com 
+Email: your-email@example.com
