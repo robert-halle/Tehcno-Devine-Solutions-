@@ -16,7 +16,7 @@ requirements.
   calculated macro data and visual summaries.
 
 - Privacy Policy:
-  privacy-policy.html
+- macro-boy-privacy-policy.html
 
 ---
 
