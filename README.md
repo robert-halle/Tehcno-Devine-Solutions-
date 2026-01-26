@@ -8,6 +8,17 @@ requirements.
 
 ## Applications
 
+Phantom Sync
+
+• Platform: Android
+
+• Distribution: Google Play (Internal / Closed Testing)
+
+• Description: Phantom Sync is an audio-based entertainment and sound experience application featuring ancient frequencies for resonance and meditation.
+
+• Privacy Policy: PhantomSync_privacy_policy.html
+
+
 ### Macro Boy
 - Platform: Android
 - Distribution: Google Play (Internal / Closed Testing)
