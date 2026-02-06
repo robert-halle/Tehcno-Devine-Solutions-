@@ -8,6 +8,17 @@ requirements.
 
 ## Applications
 
+## Tech and Trades Unit Converter
+
+• Platform: Android
+
+• Distribution: Google Play (Internal / Closed Testing)
+
+• Description: Tech and Trades Unit Converter is a comprehensive unit conversion tool supporting 33+ conversion types across 13 languages. Features include length, weight, temperature, volume, area, speed, time, data, pressure, energy, power, angle, and fuel economy conversions with real-time calculations and multilingual support.
+
+• Privacy Policy: Tech & Trads Unit Converter.html
+
+
 Phantom Sync
 
 • Platform: Android
