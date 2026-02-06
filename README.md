@@ -19,7 +19,7 @@ requirements.
 • Privacy Policy: Tech & Trads Unit Converter.html
 
 
-Phantom Sync
+## Phantom Sync
 
 • Platform: Android
 
